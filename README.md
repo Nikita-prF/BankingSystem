@@ -26,7 +26,7 @@ $ java -jar jar/BankingSystem.jar -fileName database.db
 Where:
 
 * <b>'-fileName'</b> - Obligatory option for the program to get a database file or to create him. ( <b>Don't change it </b>)
-* <b>'base.db'</b> - The path to the database file and his name or the place of its creation. ( *If you set the file name only, the program creates a database in the root directory of the project.*)
+* <b>'database.db'</b> - The path to the database file and his name or the place of its creation. ( *If you set the file name only, the program creates a database in the root directory of the project.*)
   
 <b> Be careful. The database file format must be ".md". </b>
 
